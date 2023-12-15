@@ -1,4 +1,6 @@
-name:Hello
+name: Hello
+
+on: push
 jobs:
   Hello:
     runs-on: ubuntu-latest
